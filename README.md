@@ -6,8 +6,6 @@ From the childhood, I loved to learn more deeply about things I find valuable, a
 
 I'm interested in variety of technologies, with a main focus on JavaScript, React and React Frameworks.
 
----
-
 ## 🔧 Tech Stack & Skills
 
 Here are some technologies I use:
@@ -20,8 +18,6 @@ Here are some technologies I use:
 
 - Advanced Next.js concepts and server-side rendering
 - Advanced Python Concepts and certification
-
----
 
 ## 💬 Get in Touch
 
