@@ -25,4 +25,4 @@ Want to connect or send me a message? Find me here:
 
 - 📧 Email: [Send me an email](mailto:radosav.panic01@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/radosav-panic](https://www.linkedin.com/in/radosav-panic)
-
+- 🌍 Portfolio: [Visit my portfolio](https://radosav-panic.vercel.app/)
