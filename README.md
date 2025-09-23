@@ -50,8 +50,10 @@
 <h3>📦 Frameworks and Libraries</h3>
 <p>
       <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000.svg?logo=nextdotjs&logoColor=white">
+      <img alt="Expo" src="https://img.shields.io/badge/Expo-1C2024.svg?logo=expo&logoColor=white">
       <img alt="Gatsby" src="https://img.shields.io/badge/Gatsby.js-000000.svg?logo=gatsby&logoColor=%23663399">
       <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB">
+      <img alt="React Native" src="https://img.shields.io/badge/React Native-20232a.svg?logo=react&logoColor=%2361DAFB">
       <img alt="Redux" src="https://img.shields.io/badge/Redux.js-20232a.svg?logo=redux&logoColor=%23764ABC">
       <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white">
       <img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white">
@@ -77,16 +79,20 @@
 
 <h3>☁️ Databases and Cloud Hosting</h3>
 <p>
+    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white">
+    <img alt="PostreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?logo=postgresql&logoColor=white">
+    <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3FCF8E.svg?logo=supabase&logoColor=white">
+    <img alt="Prisma" src="https://img.shields.io/badge/Prisma-2D3748.svg?logo=prisma&logoColor=white">
     <img alt="Firebase" src="https://img.shields.io/badge/Firebase-DD2C00.svg?logo=firebase&logoColor=white">
     <img alt="Appwrite" src="https://img.shields.io/badge/Appwrite-FD366E.svg?logo=appwrite&logoColor=white">
     <img alt="Sanity" src="https://img.shields.io/badge/Sanity-F03E2F.svg?logo=sanity&logoColor=white">
     <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248.svg?logo=mongodb&logoColor=white">
-    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white">
     <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57.svg?logo=sqlite&logoColor=white">
     <img alt="Stripe" src="https://img.shields.io/badge/Stripe-635BFF.svg?logo=stripe&logoColor=white">
     <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white">
     <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7.svg?logo=netlify&logoColor=white">
     <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub Pages-327FC7.svg?logo=github&logoColor=white">
+    <img alt="Render" src="https://img.shields.io/badge/Render-000000.svg?logo=render&logoColor=white">
 </p>
 
 <h3>🧰 Software and Tools</h3>
