@@ -29,6 +29,16 @@
 </details>
 
 <details open>
+<summary><h2>🍀 Currently learning</h2></summary>
+
+<ul>
+    <li>SAP HANA and SAP Fiori concepts</li>
+    <li>ABAP programming language</li>
+    <li>Django Python's Framework</li>
+</ul>
+</details>
+
+<details open>
 <summary><h2>💻 Tech Stack</h2></summary>
 
 <h3>⚙️ Programming and Markup Languages</h3>
